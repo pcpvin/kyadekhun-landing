@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="44" viewBox="0 0 140 44">
+  <rect width="140" height="44" rx="16" fill="#E11D48"/>
+  <rect x="12" y="10" width="24" height="24" rx="4" fill="#111827"/>
+  <text x="24" y="26" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="10" font-weight="800">my</text>
+  <text x="78" y="28" fill="#ffffff" font-family="system-ui, sans-serif" font-size="13" font-weight="700">book show</text>
+</svg>
